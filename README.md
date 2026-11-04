@@ -1,13 +1,20 @@
 # Shop.com Marketing Performance Analysis & Business Recommendations
-Business Problem
-Shop.Com, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to me to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.
+## Business Problem
 
-Key Points:
-Reduced Customer Engagement: The number of customer interactions and engagement with the site and marketing content has declined.
-Decreased Conversion Rates: Fewer site visitors are converting into paying customers.
-High Marketing Expenses: Significant investments in marketing campaigns are not yielding expected returns.
-Need for Customer Feedback Analysis: Understanding customer opinions about products and services is crucial for improving engagement and conversions.
-This project presents a comprehensive Power BI dashboard for analyzing marketing performance, customer sentiment, and conversion trends at Shop.com. It helps identify key drop-off points in the sales funnel and provides strategic insights to improve engagement and revenue.
+Shop.com, an online retail business, is experiencing declining customer engagement and conversion rates despite launching multiple digital marketing campaigns.
+
+The business seeks to understand the factors influencing marketing effectiveness, customer interactions, and purchasing behaviour.
+
+### Key Business Challenges
+
+- **Reduced Customer Engagement:** Declining interactions
+  with marketing content and the online platform.
+- **Decreased Conversion Rates:** Fewer visitors are
+  progressing to completed purchases.
+- **Marketing Effectiveness:** Evaluating whether marketing
+  activities generate meaningful business outcomes.
+- **Customer Feedback:** Understanding customer opinions,
+  product ratings, and sentiment to improve customer experience.
 
 ## Project Overview
 
