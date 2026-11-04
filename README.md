@@ -74,7 +74,7 @@ Using data analytics and business intelligence techniques, the project aims to i
 
 ### Overview
 
-![Overview](1%20overview.PNG)
+![Overview](1%20Overview.PNG)
 
 ### Conversion Details
 
