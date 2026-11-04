@@ -56,7 +56,7 @@ Using data analytics and business intelligence techniques, the project aims to i
 - `data/` — Dataset storage and data documentation.
 - `notebooks/` — Jupyter notebooks for exploratory data analysis, analytical investigations, sentiment analysis.
 - `sql/` — SQL scripts for data querying, transformation, and analysis.
-- `powerbi/` — Power BI reports and dashboard documentation.
+- `powerbi/` — Power BI reports and dashboard documentation in pbix and PDF formats.
 - `images/` — All dashboard screenshots and project visuals.
 - `presentation/` — Final strategic recommendations for executives and business stakeholders in PowerPoint and PDF formats.
 - `documentation/` — Project documentation, analytical findings, reports and business insights.
