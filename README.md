@@ -51,9 +51,8 @@ Using data analytics and business intelligence techniques, the project aims to i
 - `sql/` — SQL scripts for data querying, transformation, and analysis.
 - `powerbi/` — Power BI reports and dashboard documentation.
 - `images/` — All dashboard screenshots and project visuals.
-- `business recommendations presentation/` — Final executive presentation and strategic recommendations.
-- `business recommendations images/` — PowerPoint/pdf Presentation and supporting visuals.
-- `docs/` — Project documentation, analytical findings, reports and business insights.
+- `presentation/` — Final strategic recommendations for executives and business stakeholders in PowerPoint and PDF formats.
+- `documentation/` — Project documentation, analytical findings, reports and business insights.
 
 ## 🚀 Getting Started
 
@@ -77,6 +76,8 @@ Using data analytics and business intelligence techniques, the project aims to i
 ### Content/Conversion Trend
 
 ![Content/Conversion Trend](6%20Content%20Conversion%20Trend.PNG)
+
+## Analytical Approach
 
 1. Data understanding and validation.
 2. Data cleaning and preparation.
